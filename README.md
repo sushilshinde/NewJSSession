@@ -1,1 +1,1 @@
-# NewJSSession
+# JSSession
